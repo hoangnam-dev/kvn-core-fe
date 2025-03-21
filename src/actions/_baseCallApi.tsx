@@ -17,7 +17,7 @@ export const baseApiCall = async (
         const authToken = getAuthToken();
 
         const response = await axios({
-            url: '/api' + url,
+            url: process.env.NEXT_PUBLIC_API_URL + url,
             method: method,
             timeout: 60000,
             headers: {
