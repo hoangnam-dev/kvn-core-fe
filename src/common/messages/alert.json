@@ -1,0 +1,194 @@
+{
+  "AccessDenied": {
+    "Title": {
+      "vn_name": "Truy cập bị từ chối",
+      "en_name": "Access Denied",
+      "ja_name": "アクセスが拒否されました"
+    },
+    "Message": {
+      "vn_name": "Bạn không có quyền thực hiện thao tác này. Vui lòng liên hệ quản trị viên nếu bạn cho rằng đây là một sự nhầm lẫn.",
+      "en_name": "You do not have permission to perform this action. Please contact the administrator if you believe this is a mistake.",
+      "ja_name": "この操作を実行する権限がありません。誤りであると思われる場合は、管理者に連絡してください。"
+    }
+  },
+  "AuthenticationFailed": {
+    "Title": {
+      "vn_name": "Xác thực thất bại",
+      "en_name": "Authentication Failed",
+      "ja_name": "認証に失敗しました"
+    },
+    "Message": {
+      "vn_name": "Tên đăng nhập hoặc mật khẩu không đúng.",
+      "en_name": "Invalid username or password.",
+      "ja_name": "ユーザー名またはパスワードが無効です。"
+    }
+  },
+  "SessionExpired": {
+    "Title": {
+      "vn_name": "Phiên làm việc đã hết hạn",
+      "en_name": "Session Expired",
+      "ja_name": "セッションの有効期限が切れました"
+    },
+    "Message": {
+      "vn_name": "Phiên đăng nhập của bạn đã hết hạn. Vui lòng đăng nhập lại.",
+      "en_name": "Your session has expired. Please log in again.",
+      "ja_name": "セッションの有効期限が切れました。再度ログインしてください。"
+    }
+  },
+  "InvalidInput": {
+    "Title": {
+      "vn_name": "Dữ liệu không hợp lệ",
+      "en_name": "Invalid Input",
+      "ja_name": "無効な入力"
+    },
+    "Message": {
+      "vn_name": "Dữ liệu bạn nhập không hợp lệ. Vui lòng kiểm tra lại.",
+      "en_name": "The input provided is invalid. Please check again.",
+      "ja_name": "入力内容が無効です。もう一度確認してください。"
+    }
+  },
+  "ServerError": {
+    "Title": {
+      "vn_name": "Lỗi máy chủ",
+      "en_name": "Server Error",
+      "ja_name": "サーバーエラー"
+    },
+    "Message": {
+      "vn_name": "Đã xảy ra lỗi trên máy chủ. Vui lòng thử lại sau.",
+      "en_name": "An error occurred on the server. Please try again later.",
+      "ja_name": "サーバーでエラーが発生しました。後でもう一度お試しください。"
+    }
+  },
+  "NotFound": {
+    "Title": {
+      "vn_name": "Không tìm thấy",
+      "en_name": "Not Found",
+      "ja_name": "見つかりません"
+    },
+    "Message": {
+      "vn_name": "Tài nguyên bạn yêu cầu không tồn tại.",
+      "en_name": "The requested resource could not be found.",
+      "ja_name": "要求されたリソースが見つかりませんでした。"
+    }
+  },
+  "ActionSuccess": {
+    "Title": {
+      "vn_name": "Thành công",
+      "en_name": "Success",
+      "ja_name": "成功"
+    },
+    "Message": {
+      "vn_name": "Thao tác đã được thực hiện thành công.",
+      "en_name": "The action was successfully completed.",
+      "ja_name": "操作が正常に完了しました。"
+    }
+  },
+  "ActionFailed": {
+    "Title": {
+      "vn_name": "Thao tác thất bại",
+      "en_name": "Action Failed",
+      "ja_name": "操作が失敗しました"
+    },
+    "Message": {
+      "vn_name": "Có lỗi xảy ra khi thực hiện thao tác. Vui lòng thử lại.",
+      "en_name": "An error occurred while performing the action. Please try again.",
+      "ja_name": "操作を実行中にエラーが発生しました。もう一度お試しください。"
+    }
+  },
+  "DuplicateEntry": {
+    "Title": {
+      "vn_name": "Dữ liệu trùng lặp",
+      "en_name": "Duplicate Entry",
+      "ja_name": "重複エントリ"
+    },
+    "Message": {
+      "vn_name": "Dữ liệu này đã tồn tại trong hệ thống.",
+      "en_name": "This entry already exists in the system.",
+      "ja_name": "このエントリはすでにシステム内に存在します。"
+    }
+  },
+  "InvalidFile": {
+    "Title": {
+      "vn_name": "Tệp không hợp lệ",
+      "en_name": "Invalid File",
+      "ja_name": "無効なファイル"
+    },
+    "Message": {
+      "vn_name": "Định dạng tệp không được hỗ trợ hoặc tệp bị lỗi.",
+      "en_name": "The file format is not supported or the file is corrupted.",
+      "ja_name": "ファイル形式がサポートされていないか、ファイルが破損しています。"
+    }
+  },
+  "FileUploadSuccess": {
+    "Title": {
+      "vn_name": "Tải lên thành công",
+      "en_name": "Upload Successful",
+      "ja_name": "アップロード成功"
+    },
+    "Message": {
+      "vn_name": "Tệp của bạn đã được tải lên thành công.",
+      "en_name": "Your file has been successfully uploaded.",
+      "ja_name": "ファイルが正常にアップロードされました。"
+    }
+  },
+  "FileUploadFailed": {
+    "Title": {
+      "vn_name": "Tải lên thất bại",
+      "en_name": "Upload Failed",
+      "ja_name": "アップロード失敗"
+    },
+    "Message": {
+      "vn_name": "Có lỗi xảy ra khi tải lên tệp. Vui lòng thử lại.",
+      "en_name": "An error occurred while uploading the file. Please try again.",
+      "ja_name": "ファイルのアップロード中にエラーが発生しました。もう一度お試しください。"
+    }
+  },
+  "NetworkError": {
+    "Title": {
+      "vn_name": "Lỗi kết nối",
+      "en_name": "Network Error",
+      "ja_name": "ネットワークエラー"
+    },
+    "Message": {
+      "vn_name": "Không thể kết nối đến máy chủ. Vui lòng kiểm tra kết nối mạng của bạn.",
+      "en_name": "Cannot connect to the server. Please check your internet connection.",
+      "ja_name": "サーバーに接続できません。インターネット接続を確認してください。"
+    }
+  },
+  "LogoutSuccess": {
+    "Title": {
+      "vn_name": "Đăng xuất thành công",
+      "en_name": "Logout Successful",
+      "ja_name": "ログアウト成功"
+    },
+    "Message": {
+      "vn_name": "Bạn đã đăng xuất khỏi hệ thống.",
+      "en_name": "You have been logged out of the system.",
+      "ja_name": "システムからログアウトしました。"
+    }
+  },
+  "Success": {
+    "Title": {
+      "vn_name": "Thành công!",
+      "en_name": "Success!",
+      "ja_name": "成功！"
+    },
+    "Message": {
+      "vn_name": "Thao tác của bạn đã hoàn tất thành công.",
+      "en_name": "Your operation was completed successfully.",
+      "ja_name": "操作が正常に完了しました。"
+    }
+  },
+  "Failed": {
+    "Title": {
+      "vn_name": "Thất bại!",
+      "en_name": "Failed!",
+      "ja_name": "失敗！"
+    },
+    "Message": {
+      "vn_name": "Đã xảy ra lỗi trong quá trình thực hiện. Vui lòng thử lại.",
+      "en_name": "An error occurred during the operation. Please try again.",
+      "ja_name": "操作中にエラーが発生しました。もう一度お試しください。"
+    }
+  }
+}

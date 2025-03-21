@@ -1,0 +1,198 @@
+{
+  "personal_information": {
+    "vn_name": {
+      "v": "Thông tin cá nhân",
+      "r": "Thông tin cá nhân"
+    },
+    "en_name": {
+      "v": "Personal Information",
+      "r": "Personal Information"
+    },
+    "ja_name": {
+      "v": "個人情報",
+      "r": "個人情報"
+    }
+  },
+  "name": {
+    "vn_name": {
+      "v": "Họ và tên",
+      "r": "Họ và tên"
+    },
+    "en_name": {
+      "v": "Name",
+      "r": "Name"
+    },
+    "ja_name": {
+      "v": "氏名",
+      "r": "氏名"
+    }
+  },
+  "nickname": {
+    "vn_name": {
+      "v": "Biệt danh",
+      "r": "Biệt danh"
+    },
+    "en_name": {
+      "v": "Nickname",
+      "r": "Nickname"
+    },
+    "ja_name": {
+      "v": "ニックネーム",
+      "r": "ニックネーム"
+    }
+  },
+  "email_address": {
+    "vn_name": {
+      "v": "Địa chỉ email",
+      "r": "Địa chỉ email"
+    },
+    "en_name": {
+      "v": "Email address",
+      "r": "Email address"
+    },
+    "ja_name": {
+      "v": "メールアドレス",
+      "r": "メールアドレス"
+    }
+  },
+  "phone": {
+    "vn_name": {
+      "v": "Số điện thoại",
+      "r": "Số điện thoại"
+    },
+    "en_name": {
+      "v": "Phone",
+      "r": "Phone"
+    },
+    "ja_name": {
+      "v": "電話番号",
+      "r": "電話番号"
+    }
+  },
+  "address": {
+    "vn_name": {
+      "v": "Địa chỉ",
+      "r": "Địa chỉ"
+    },
+    "en_name": {
+      "v": "Address",
+      "r": "Address"
+    },
+    "ja_name": {
+      "v": "住所",
+      "r": "住所"
+    }
+  },
+  "country": {
+    "vn_name": {
+      "v": "Quốc gia",
+      "r": "Quốc gia"
+    },
+    "en_name": {
+      "v": "Country",
+      "r": "Country"
+    },
+    "ja_name": {
+      "v": "国",
+      "r": "国"
+    }
+  },
+  "city_state": {
+    "vn_name": {
+      "v": "Thành phố/Tỉnh",
+      "r": "Thành phố/Tỉnh"
+    },
+    "en_name": {
+      "v": "City/State",
+      "r": "City/State"
+    },
+    "ja_name": {
+      "v": "市/州",
+      "r": "市/州"
+    }
+  },
+  "postal_code": {
+    "vn_name": {
+      "v": "Mã bưu điện",
+      "r": "Mã bưu điện"
+    },
+    "en_name": {
+      "v": "Postal Code",
+      "r": "Postal Code"
+    },
+    "ja_name": {
+      "v": "郵便番号",
+      "r": "郵便番号"
+    }
+  },
+  "tax_id": {
+    "vn_name": {
+      "v": "Mã số thuế",
+      "r": "Mã số thuế"
+    },
+    "en_name": {
+      "v": "TAX ID",
+      "r": "TAX ID"
+    },
+    "ja_name": {
+      "v": "税務識別番号",
+      "r": "税務識別番号"
+    }
+  },
+  "edit_personal_information": {
+    "vn_name": {
+      "v": "Chỉnh sửa thông tin cá nhân",
+      "r": "Chỉnh sửa thông tin cá nhân"
+    },
+    "en_name": {
+      "v": "Edit Personal Information",
+      "r": "Edit Personal Information"
+    },
+    "ja_name": {
+      "v": "個人情報を編集",
+      "r": "個人情報を編集"
+    }
+  },
+  "edit_btn": {
+    "vn_name": {
+      "v": "Chỉnh sửa",
+      "r": "Chỉnh sửa"
+    },
+    "en_name": {
+      "v": "Edit",
+      "r": "Edit"
+    },
+    "ja_name": {
+      "v": "個人情報を編集",
+      "r": "個人情報を編集"
+    }
+  },
+  "update_details": {
+    "vn_name": {
+      "v": "Cập nhật thông tin để giữ hồ sơ của bạn luôn chính xác.",
+      "r": "Cập nhật thông tin để giữ hồ sơ của bạn luôn chính xác."
+    },
+    "en_name": {
+      "v": "Update your details to keep your profile up-to-date.",
+      "r": "Update your details to keep your profile up-to-date."
+    },
+    "ja_name": {
+      "v": "プロファイルを最新の状態に保つために詳細情報を更新してください。",
+      "r": "プロファイルを最新の状態に保つために詳細情報を更新してください。"
+    }
+  },
+  "social_links": {
+    "vn_name": {
+      "v": "Liên kết mạng xã hội",
+      "r": "Liên kết mạng xã hội"
+    },
+    "en_name": {
+      "v": "Social Links",
+      "r": "Social Links"
+    },
+    "ja_name": {
+      "v": "ソーシャルリンク",
+      "r": "ソーシャルリンク"
+    }
+  }
+}

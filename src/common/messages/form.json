@@ -1,0 +1,86 @@
+{
+    "boolean": {
+        "vn_name": {
+            "v": "Đúng",
+            "r": "Đúng"
+        },
+        "en_name": {
+            "v": "True",
+            "r": "True"
+        },
+        "ja_name": {
+            "v": "真実",
+            "r": "真実"
+        }
+    },
+    "save": {
+        "vn_name": {
+            "v": "Lưu",
+            "r": "Lưu"
+        },
+        "en_name": {
+            "v": "Save",
+            "r": "Save"
+        },
+        "ja_name": {
+            "v": "保存",
+            "r": "保存"
+        }
+    },
+    "edit": {
+        "vn_name": {
+            "v": "Chỉnh sửa",
+            "r": "Chỉnh sửa"
+        },
+        "en_name": {
+            "v": "Edit",
+            "r": "Edit"
+        },
+        "ja_name": {
+            "v": "編集",
+            "r": "編集"
+        }
+    },
+    "delete": {
+        "vn_name": {
+            "v": "Xóa",
+            "r": "Xóa"
+        },
+        "en_name": {
+            "v": "Delete",
+            "r": "Delete"
+        },
+        "ja_name": {
+            "v": "消去",
+            "r": "消去"
+        }
+    },
+    "cancel": {
+        "vn_name": {
+            "v": "Hủy bỏ",
+            "r": "Hủy bỏ"
+        },
+        "en_name": {
+            "v": "Cancel",
+            "r": "Cancel"
+        },
+        "ja_name": {
+            "v": "取り消す",
+            "r": "取り消す"
+        }
+    },
+    "required": {
+        "vn_name": {
+            "v": "Trường này là bắt buộc",
+            "r": "Trường này là bắt buộc"
+        },
+        "en_name": {
+            "v": "Field is required",
+            "r": "Field is required"
+        },
+        "ja_name": {
+            "v": "フィールドが必要です",
+            "r": "フィールドが必要です"
+        }
+    }
+}

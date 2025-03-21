@@ -1,0 +1,38 @@
+export interface AccountResponse {
+    accountInfoId: number;
+    displayOrder?: number | null;
+    accountNumber: string;
+    accountType: number;
+    username: string;
+    phone: string;
+    email: string;
+    dateOfBirth: string;
+    status: number;
+    roleGroupId: number;
+    description: string;
+    fullName: string;
+    identityNumber?: string | null;
+    identityImage?: string | null;
+    profilePicture?: string;
+    transportUnitId?: number | null;
+    employeeId?: number | null;
+    employeeCode?: string | null;
+    registeredAt: string;
+    extendedRoleGroups: string;
+    personalInfo?: string | null;
+    defaultLink?: string | null;
+    allowMultiIp: boolean;
+    isActive: boolean;
+    allowLogin: boolean;
+    lastLoginIp?: string | null;
+    requirePasswordChange: boolean;
+    browserId?: string | null;
+    lastLoginAt?: string | null;
+    localIps?: string | null;
+    companyAllow?: string | null;
+    companyId?: number | null;
+    deviceId?: string | null;
+    loginAttempts: number;
+    isWelcome: boolean;
+    languageId?: number | null;
+}

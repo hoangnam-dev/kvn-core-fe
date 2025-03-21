@@ -1,0 +1,162 @@
+{
+  "placeholder": {
+    "vn_name": {
+      "v": "Nâng cao",
+      "r": "Nâng cao"
+    },
+    "en_name": {
+      "v": "Advanced",
+      "r": "Advanced"
+    },
+    "ja_name": {
+      "v": "高度な",
+      "r": "高度な"
+    }
+  },
+  "action_view": {
+    "vn_name": {
+      "v": "Xem chi tiết",
+      "r": "Xem chi tiết"
+    },
+    "en_name": {
+      "v": "View details",
+      "r": "View details"
+    },
+    "ja_name": {
+      "v": "詳細を見る",
+      "r": "詳細を見る"
+    }
+  },
+  "action_edit": {
+    "vn_name": {
+      "v": "Chỉnh sửa",
+      "r": "Chỉnh sửa" 
+    },
+    "en_name": {
+      "v": "Edit",
+      "r": "Edit" 
+    },
+    "ja_name": {
+      "v": "編集する",
+      "r": "編集する"
+     }
+  },
+  "action_create": {
+    "vn_name": {
+      "v": "Thêm mới",
+      "r": "Thêm mới" 
+    },
+    "en_name": {
+      "v": "Create new",
+      "r": "Create new" 
+    },
+    "ja_name": {
+      "v": "新規作成",
+      "r": "新規作成"
+     }
+  },
+  "action_delete": {
+    "vn_name": {
+      "v": "Xóa",
+      "r": "Xóa" 
+    },
+    "en_name": {
+      "v": "Delete",
+      "r": "Delete" 
+    },
+    "ja_name": {
+      "v": "削除する",
+      "r": "削除する"
+     }
+  },
+  "action_download": {
+    "vn_name": {
+      "v": "Tải xuống",
+      "r": "Tải xuống" 
+    },
+    "en_name": {
+      "v": "Download",
+      "r": "Download" 
+    },
+    "ja_name": {
+      "v": "ダウンロード",
+      "r": "ダウンロード"
+     }
+  },
+  "action_import": {
+    "vn_name": {
+      "v": "Nhập dữ liệu",
+      "r": "Nhập dữ liệu" 
+    },
+    "en_name": {
+      "v": "Import",
+      "r": "Import" 
+    },
+    "ja_name": {
+      "v": "インポート",
+      "r": "インポート"
+     }
+  },
+  "action_export": {
+    "vn_name": {
+      "v": "Xuất dữ liệu",
+      "r": "Xuất dữ liệu" 
+    },
+    "en_name": {
+      "v": "Export",
+      "r": "Export" 
+    },
+    "ja_name": {
+      "v": "エクスポート",
+      "r": "エクスポート"
+     }
+  },
+  "action_confirm": {
+    "vn_name": {
+      "v": "Xác nhận",
+      "r": "Xác nhận" 
+    },
+    "en_name": {
+      "v": "Confirm",
+      "r": "Confirm" 
+    },
+    "ja_name": {
+      "v": "確認する",
+      "r": "確認する"
+     }
+  },
+  "action_info": {
+    "vn_name": { 
+      "v": "Thông tin",
+      "r": "Thông tin" 
+    },
+    "en_name": { 
+      "v": "Information",
+      "r": "Information" 
+    },
+    "ja_name": { 
+      "v": "情報",
+      "r": "情報" 
+    }
+  },
+  "ConfirmDelete": {
+    "vn_name": "Bạn có chắc chắn muốn xóa {} mục đã chọn?",
+    "en_name": "Are you sure you want to delete {} selected items?",
+    "ja_name": "{} 件の選択された項目を削除してもよろしいですか？"
+  },
+  "Cancel": {
+    "vn_name": "Huỷ",
+    "en_name": "Cancel",
+    "ja_name": "キャンセル"
+  },
+  "Delete": {
+    "vn_name": "Xoá",
+    "en_name": "Delete",
+    "ja_name": "削除"
+  },
+  "Save": {
+    "vn_name": "Lưu",
+    "en_name": "Save",
+    "ja_name": "保存"
+  }
+}

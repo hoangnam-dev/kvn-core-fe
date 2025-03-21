@@ -1,0 +1,58 @@
+{
+  "add_display_option": {
+    "vn_name": {
+      "v": "Thêm tùy chọn hiển thị",
+      "r": "Thêm tùy chọn hiển thị"
+    },
+    "en_name": {
+      "v": "Add display option",
+      "r": "Add display option"
+    },
+    "ja_name": {
+      "v": "表示オプションを追加",
+      "r": "表示オプションを追加"
+    }
+  },
+  "reset_default": {
+    "vn_name": {
+      "v": "Trở về mặc định",
+      "r": "Trở về mặc định"
+    },
+    "en_name": {
+      "v": "Reset to default",
+      "r": "Reset to default"
+    },
+    "ja_name": {
+      "v": "デフォルトに戻す",
+      "r": "デフォルトに戻す"
+    }
+  },
+  "column_display_option": {
+    "vn_name": {
+      "v": "Tùy chọn hiển thị cột",
+      "r": "Tùy chọn hiển thị cột"
+    },
+    "en_name": {
+      "v": "Column display option",
+      "r": "Column display option"
+    },
+    "ja_name": {
+      "v": "列の表示オプション",
+      "r": "列の表示オプション"
+    }
+  },
+  "column_lock_option": {
+    "vn_name": {
+      "v": "Tùy chọn khóa cột",
+      "r": "Tùy chọn khóa cột"
+    },
+    "en_name": {
+      "v": "Column lock option",
+      "r": "Column lock option"
+    },
+    "ja_name": {
+      "v": "列のロックオプション",
+      "r": "列のロックオプション"
+    }
+  }
+}

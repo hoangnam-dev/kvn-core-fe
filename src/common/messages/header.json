@@ -1,0 +1,58 @@
+{
+  "EditProfile": {
+    "vn_name": {
+      "v": "Chỉnh sửa hồ sơ",
+      "r": "Chỉnh sửa hồ sơ"
+    },
+    "en_name": {
+      "v": "Edit Profile",
+      "r": "Edit Profile"
+    },
+    "ja_name": {
+      "v": "プロフィールを編集",
+      "r": "プロフィールを編集"
+    }
+  },
+  "AccountSettings": {
+    "vn_name": {
+      "v": "Cài đặt tài khoản",
+      "r": "Cài đặt tài khoản"
+    },
+    "en_name": {
+      "v": "Account Settings",
+      "r": "Account Settings"
+    },
+    "ja_name": {
+      "v": "アカウント設定",
+      "r": "アカウント設定"
+    }
+  },
+  "Support": {
+    "vn_name": {
+      "v": "Hỗ trợ",
+      "r": "Hỗ trợ"
+    },
+    "en_name": {
+      "v": "Support",
+      "r": "Support"
+    },
+    "ja_name": {
+      "v": "サポート",
+      "r": "サポート"
+    }
+  },
+  "SignOut": {
+    "vn_name": {
+      "v": "Đăng xuất",
+      "r": "Đăng xuất"
+    },
+    "en_name": {
+      "v": "Sign Out",
+      "r": "Sign Out"
+    },
+    "ja_name": {
+      "v": "ログアウト",
+      "r": "ログアウト"
+    }
+  }
+}

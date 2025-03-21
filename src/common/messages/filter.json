@@ -1,0 +1,58 @@
+{
+  "header": {
+    "vn_name": {
+      "v": "Bộ lọc",
+      "r": "Bộ lọc"
+    },
+    "en_name": {
+      "v": "Filter",
+      "r": "Filter"
+    },
+    "ja_name": {
+      "v": "フィルター",
+      "r": "フィルター"
+    }
+  },
+  "action_filter": {
+    "vn_name": {
+      "v": "Lọc",
+      "r": "Lọc"
+    },
+    "en_name": {
+      "v": "Filter",
+      "r": "Filter"
+    },
+    "ja_name": {
+      "v": "フィルター",
+      "r": "フィルター"
+    }
+  },
+  "action_reset": {
+    "vn_name": {
+      "v": "Xoá lọc",
+      "r": "Xoá lọc"
+    },
+    "en_name": {
+      "v": "Reset Filter",
+      "r": "Reset Filter"
+    },
+    "ja_name": {
+      "v": "フィルターをリセット",
+      "r": "フィルターをリセット"
+    }
+  },
+  "action_close": {
+    "vn_name": {
+      "v": "Đóng",
+      "r": "Đóng"
+    },
+    "en_name": {
+      "v": "Close",
+      "r": "Close"
+    },
+    "ja_name": {
+      "v": "閉じる",
+      "r": "閉じる"
+    }
+  }
+}

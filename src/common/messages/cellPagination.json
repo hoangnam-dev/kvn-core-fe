@@ -1,0 +1,128 @@
+{
+  "page": {
+    "vn_name": {
+      "v": "Trang",
+      "r": "Trang"
+    },
+    "en_name": {
+      "v": "Page",
+      "r": "Page"
+    },
+    "ja_name": {
+      "v": "ページ",
+      "r": "ページ"
+    }
+  },
+  "to": {
+    "vn_name": {
+      "v": "đến",
+      "r": "đến"
+    },
+    "en_name": {
+      "v": "to",
+      "r": "to"
+    },
+    "ja_name": {
+      "v": "から",
+      "r": "から"
+    }
+  },
+  "of": {
+    "vn_name": {
+      "v": "trên",
+      "r": "trên"
+    },
+    "en_name": {
+      "v": "of",
+      "r": "of"
+    },
+    "ja_name": {
+      "v": "の",
+      "r": "の"
+    }
+  },
+  "next": {
+    "vn_name": {
+      "v": "Tiếp theo",
+      "r": "Tiếp theo"
+    },
+    "en_name": {
+      "v": "Next",
+      "r": "Next"
+    },
+    "ja_name": {
+      "v": "次へ",
+      "r": "次へ"
+    }
+  },
+  "previous": {
+    "vn_name": {
+      "v": "Trước",
+      "r": "Trước"
+    },
+    "en_name": {
+      "v": "Previous",
+      "r": "Previous"
+    },
+    "ja_name": {
+      "v": "前へ",
+      "r": "前へ"
+    }
+  },
+  "paginationPageSize": {
+    "vn_name": {
+      "v": "Số dòng mỗi trang",
+      "r": "Số dòng mỗi trang"
+    },
+    "en_name": {
+      "v": "Rows per page",
+      "r": "Rows per page"
+    },
+    "ja_name": {
+      "v": "ページごとの行数",
+      "r": "ページごとの行数"
+    }
+  },
+  "pageSizeSelectorLabel": {
+    "vn_name": {
+      "v": "Số dòng mỗi trang",
+      "r": "Số dòng mỗi trang"
+    },
+    "en_name": {
+      "v": "Rows per page",
+      "r": "Rows per page"
+    },
+    "ja_name": {
+      "v": "ページごとの行数",
+      "r": "ページごとの行数"
+    }
+  },
+  "ariaPageSizeSelectorLabel": {
+    "vn_name": {
+      "v": "Số dòng mỗi trang",
+      "r": "Số dòng mỗi trang"
+    },
+    "en_name": {
+      "v": "Rows per page",
+      "r": "Rows per page"
+    },
+    "ja_name": {
+      "v": "ページごとの行数",
+      "r": "ページごとの行数"
+    }
+  },
+  "noRowsToShow": {
+    "vn_name": {
+      "v": "Không có bản ghi nào",
+      "r": "Không có bản ghi nào"
+    },
+    "en_name": {
+      "v": "No records to show",
+      "r": "No records to show"
+    },
+    "ja_name": {
+      "v": "表示するレコードがありません",
+      "r": "表示するレコードがありません"
+    }
+  }
+}
