@@ -33,7 +33,7 @@ const baseApiCall = async (
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default async () => {
-    const url = '/api/v1/products';
+    const url = '/v1/products';
     const method = 'GET';
 
     return await baseApiCall(url, method, undefined, undefined, undefined);

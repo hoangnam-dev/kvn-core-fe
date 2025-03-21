@@ -3,7 +3,7 @@
 import {baseApiCall} from "@/actions/_baseCallApi";
 
 export default async (body: any) => {
-    const url = '/api/GetData';
+    const url = '/GetData';
     const method = 'PUT';
 
     try {

@@ -4,7 +4,7 @@ import {baseApiCall} from "@/actions/_baseCallApi";
 import {GenDataResBody} from "@/model/request/genData";
 
 export default async () => {
-    const url = '/api/GetData/getData';
+    const url = '/GetData/getData';
     const method = 'POST';
 
     const body: GenDataResBody = {
